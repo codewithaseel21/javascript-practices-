@@ -39,7 +39,36 @@
 // console.log(cast);
 
 // cast = "pardesi"
-// console.log(cast);
+// console.log(cast);  // change nahi hui
+
+
+
+// -----------chapter 03 Variables for Strings--------------
+
+
+// let weight01 = 210
+// let weight02 = 210
+// let newnumber = weight01 + weight02 
+// console.log(newnumber);
+
+
+
+// -----------chapter 04 Variables for Strings--------------
+
+
+// Legal Variable Names (jo allowed hote hain):
+// let username;
+// let $price;
+// let _id;
+// let fullName;
+// let student1;
+
+
+// Illegal Variable Names (jo error denge)
+// let 1user;    // ❌ Galat: number se start
+// let full name; // ❌ Galat: space hai
+// let @price;   // ❌ Galat: @ allowed nahi
+// let var;      // ❌ Galat: "var" ek keyword hai
 
 
 
